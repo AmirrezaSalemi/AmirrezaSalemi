@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amirreza Salemi
 =======================================================================================================================================
 
-Data Scientist
 --------------
 
 I'm a 22 years\_old software engineering student with a strong desire to continuously enhance my skills. These days I'm learning Deep Learning and Machine Learning.
